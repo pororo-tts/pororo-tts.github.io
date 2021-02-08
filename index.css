@@ -125,7 +125,7 @@ p {
 }
 
 .labeled-audio {
-    text-align: center;
+    text-align: left;
     display: inline;
     max-width: 350px;
     min-width: 275px;
